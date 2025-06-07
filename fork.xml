@@ -1,0 +1,6 @@
+<fork xmlns="http://forkplayer.tv">
+    <section name="Главное меню">
+        <item name="Фильмы" url="https://no4kino.github.io/films.xml" />
+        <item name="Сериалы" url="https://no4kino.github.io/series.xml" />
+    </section>
+</fork>
